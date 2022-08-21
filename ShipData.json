@@ -1,0 +1,12 @@
+{
+    "OperationCost": 309600,
+    "LoadCapacity": 4300,
+    "LOA": 250,
+    "A":0.024,
+    "B":-0.9862,
+    "C":20.786,
+    "D":-136.77,
+    "Min":14,
+    "Max":30,
+    "FuelCostUnit":966.50
+}
